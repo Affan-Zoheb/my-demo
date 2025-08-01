@@ -1,4 +1,4 @@
 # my-demo
-this is my first repo
+This is my first repo
 <BR>
-dev - AFFAN ZOHEB
+Dev - AFFAN ZOHEB
